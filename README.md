@@ -1,5 +1,3 @@
 hello-world
 ===========
-
-
-branch
+merged2

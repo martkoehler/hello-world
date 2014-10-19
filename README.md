@@ -2,4 +2,4 @@ hello-world
 ===========
 
 
-local cleanup
+local cleanup 2

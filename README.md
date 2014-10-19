@@ -1,3 +1,3 @@
 hello-world
 ===========
-neu master
+neu github master
